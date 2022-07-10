@@ -4,7 +4,7 @@ using System.Text;
 namespace BakaXL.Core.Tools;
 
 public static class UUIDConverter {
-	public static Guid GetPlayerUuid(string playerName) {
+	public static Guid GetOfflineUUIDFromPlayerName(string playerName) {
 		var md5 = MD5.Create();
 		var uuidBytes = md5.ComputeHash(Encoding.UTF8.GetBytes("OfflinePlayer:" + playerName));
 		uuidBytes[6] &= 0x0f;
