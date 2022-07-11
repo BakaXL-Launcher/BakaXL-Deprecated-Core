@@ -1,19 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="Accounts\Authenticators\NewFile1.txt" />
-    <None Remove="Systems\NewFile1.txt" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Games\" />
-    <Folder Include="Network\" />
-  </ItemGroup>
-
 </Project>
