@@ -1,9 +1,9 @@
 # BakaXL.Core
 
-![](https://img.shields.io/badge/License-MIT-A31F34?style=flat-square&logo=.NET&logoColor=ffffff)
+![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL.Core?style=flat-square)
 ![](https://img.shields.io/github/forks/BakaXL-Launcher/BakaXL.Core?style=flat-square)
 ![](https://img.shields.io/github/stars/BakaXL-Launcher/BakaXL.Core?style=flat-square)
-![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL.Core?style=flat-square)
+![](https://img.shields.io/badge/License-MIT-A31F34?style=flat-square&logo=.NET&logoColor=ffffff)
 
 ## BakaXL 核心
 
@@ -14,4 +14,6 @@
 这是全新的 BakaXL 核心，你可以在这里贡献你的代码，甚至是...加入彩蛋。
 
 ## 🙏 鸣谢
-BakaXL.Core 的诞生离不开下列开源项目。
+BakaXL.Core 的诞生离不开下列开源项目:
+
+*~~:sweat_smile: 但是没有任何开源项目，Sad。~~*
