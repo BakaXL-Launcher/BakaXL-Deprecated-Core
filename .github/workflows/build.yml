@@ -6,9 +6,18 @@ env:
 on:
   push:
     branches: [ "master" ]
+    paths-ignore:
+      - README.md
+      - LICENSE
+      - .github/*
+      - .gitattributes
   pull_request:
     branches: [ "master" ]
-    
+    paths-ignore:
+      - README.md
+      - LICENSE
+      - .github/*
+      - .gitattributes
 jobs:
   test-win:
     runs-on: ubuntu-latest
