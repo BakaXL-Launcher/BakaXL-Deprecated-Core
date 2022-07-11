@@ -1,5 +1,5 @@
 # BakaXL.Core
-[![](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E6%B2%A1%E9%92%B1-946ce6?style=for-the-badge)](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E6%B2%A1%E9%92%B1-946ce6?style=for-the-badge)
+[![](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E6%B2%A1%E9%92%B1-946ce6?style=for-the-badge)](https://afdian.net/@TT702)
 [![](https://img.shields.io/github/workflow/status/BakaXL-Launcher/BakaXL.Core/Build/master?style=for-the-badge)](https://github.com/BakaXL-Launcher/BakaXL.Core/actions/workflows/build.yml)
 [![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL.Core?style=for-the-badge)](https://github.com/BakaXL-Launcher/BakaXL.Core/issues)
 [![](https://img.shields.io/github/forks/BakaXL-Launcher/BakaXL.Core?style=for-the-badge)](https://github.com/BakaXL-Launcher/BakaXL.Core/network/members)
