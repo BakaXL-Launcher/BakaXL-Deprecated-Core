@@ -24,7 +24,7 @@ public class OSInfoTests {
 
 		// AppleSilicon 特殊处理
 		if (os == OSType.macOS && arch == ArchType.ARM)
-			CollectionAssert.AreEqual(info!.SupportedArches.ToList(), new ArchType[] { ArchType.X86, ArchType.ARM });
+			CollectionAssert.AreEqual(info!.SupportedArches.ToList(), new ArchType[] { ArchType.ARM, ArchType.X86 });
 		else
 			CollectionAssert.AreEqual(info!.SupportedArches.ToList(), new ArchType[] { arch.Value });
 

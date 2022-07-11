@@ -16,7 +16,7 @@ public class StandardOSInfo : OSInfo {
 
 			// AppleSilicon 特殊处理
 			var arches = os == OSType.macOS && arch == ArchType.ARM
-				? new ArchType[] { ArchType.X86, ArchType.ARM }
+				? new ArchType[] { ArchType.ARM, ArchType.X86 }
 				: new ArchType[] { arch.Value }
 				;
 
