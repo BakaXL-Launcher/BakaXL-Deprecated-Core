@@ -1,9 +1,10 @@
 # BakaXL.Core
 
-![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL.Core?style=flat-square)
-![](https://img.shields.io/github/forks/BakaXL-Launcher/BakaXL.Core?style=flat-square)
-![](https://img.shields.io/github/stars/BakaXL-Launcher/BakaXL.Core?style=flat-square)
-![](https://img.shields.io/badge/License-MIT-A31F34?style=flat-square&logo=.NET&logoColor=ffffff)
+![](https://img.shields.io/github/workflow/status/BakaXL-Launcher/BakaXL.Core/Build/master?style=for-the-badge)
+![](https://img.shields.io/github/issues/BakaXL-Launcher/BakaXL.Core?style=for-the-badge)
+![](https://img.shields.io/github/forks/BakaXL-Launcher/BakaXL.Core?style=for-the-badge)
+![](https://img.shields.io/github/stars/BakaXL-Launcher/BakaXL.Core?style=for-the-badge)
+![](https://img.shields.io/badge/License-MIT-A31F34?logo=.NET&logoColor=ffffff&style=for-the-badge)
 
 ## BakaXL 核心
 
