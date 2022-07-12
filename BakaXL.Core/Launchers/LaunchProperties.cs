@@ -14,5 +14,4 @@ public class LaunchProperties : Dictionary<string, string> {
 		}
 	}
 
-
 }

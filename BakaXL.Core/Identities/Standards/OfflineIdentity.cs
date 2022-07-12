@@ -23,7 +23,7 @@ public class OfflineIdentity : IIdentity {
 		properties.PlayerId = PlayerId;
 		properties.PlayerName = PlayerName;
 		properties.PlayerProperties = "{}";
-		properties.AccessToken = Guid.NewGuid().ToString("N");
+		properties.AccessToken = PlayerId.ToString("N");
 	}
 
 	public ValueTask<IIdentity> Auth() {
